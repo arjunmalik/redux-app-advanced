@@ -48,3 +48,10 @@ Directory Structure
 3. All the components can go into the ./components folder.
 
 In a traditional application, as the size of the app increases so does the complexity. But with redux applications, there is higher inital complexity, because we can only change the data/state through action creators. But there is stable curve of complexity as our application grows and our application is self-documenting.
+
+Use the Application
+-------------------
+npm install
+npm run start:dev (by default application will be served on http://localhost:9000/)
+
+https://github.com/reduxjs/redux/issues/1676#issuecomment-215413478
