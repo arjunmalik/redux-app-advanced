@@ -51,7 +51,7 @@ In a traditional application, as the size of the app increases so does the compl
 
 Use the Application
 -------------------
-npm install
-npm run start:dev (by default application will be served on http://localhost:9000/)
+1. npm install
+2. npm run start:dev (by default application will be served on http://localhost:9000/)
 
 https://github.com/reduxjs/redux/issues/1676#issuecomment-215413478
