@@ -1,6 +1,8 @@
 # Redux 
 A state container/state management library for Javascript apps, which makes creating complex applications easier.
+
 Action Creators -> Action -> Dispatch -> Reducers -> State Change.
+
 An action creator creates an action which gets dispatched to all the reducers, which can then introduce a state change in our redux app. Let's look at each of the component individually.
 
 Action Creator/Action
